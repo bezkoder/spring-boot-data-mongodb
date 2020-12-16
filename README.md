@@ -17,6 +17,8 @@ Security:
 Fullstack:
 > [Angular 10 + Spring Boot + MongoDB](https://bezkoder.com/angular-10-spring-boot-mongodb/)
 
+> [Angular 11 + Spring Boot + MongoDB](https://bezkoder.com/angular-11-spring-boot-mongodb/)
+
 > [Vue.js + Spring Boot + MongoDB](https://bezkoder.com/spring-boot-vue-mongodb/)
 
 > [React + Spring Boot + MongoDB](https://bezkoder.com/react-spring-boot-mongodb/)
