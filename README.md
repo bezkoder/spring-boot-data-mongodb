@@ -27,6 +27,8 @@ Fullstack:
 
 > [Angular 13 + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-13-spring-boot-mongodb/)
 
+> [Angular 14 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-14-mongodb/)
+
 > [Vue + Spring Boot + MongoDB](https://www.bezkoder.com/spring-boot-vue-mongodb/)
 
 > [React + Spring Boot + MongoDB](https://www.bezkoder.com/react-spring-boot-mongodb/)
